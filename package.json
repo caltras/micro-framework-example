@@ -6,7 +6,7 @@
   "repository": "",
   "author": "Claudio Traspadini Oliveira <caltras@gmail.com>",
   "dependencies": {
-    "micro-framework":"git://github.com/caltras/micro-framework.git"
+    "micro-framework":"git://github.com/caltras/micro-framework.git#master"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
